@@ -1,6 +1,4 @@
-/Assignment2_IR/* linguist-documentation
-/Assignment3_IR/* linguist-documentation
-/Assignment4_IR/* linguist-documentation
-/Final_Project/* linguist-documentation
+* linguist-vendored
+*.java linguist-vendored=false
  
 
