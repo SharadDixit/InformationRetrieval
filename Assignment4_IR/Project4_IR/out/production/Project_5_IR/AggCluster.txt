@@ -1,0 +1,748 @@
+Cluster is formed between Documents:
+Cluster Number:0
+129
+101
+Cluster is formed between Documents:
+Cluster Number:1
+404
+402
+Cluster is formed between Documents:
+Cluster Number:2
+417
+415
+Cluster is formed between Documents:
+Cluster Number:3
+422
+420
+Cluster is formed between Documents:
+Cluster Number:4
+409
+406
+Cluster is formed between Documents:
+Cluster Number:5
+430
+428
+Cluster is formed between Documents:
+Cluster Number:6
+426
+407
+Cluster is formed between Documents:
+Cluster Number:7
+423
+421
+Cluster is formed between Documents:
+Cluster Number:8
+413
+411
+Cluster is formed between Documents:
+Cluster Number:9
+425
+418
+Document added to previous cluster:3
+Documents in cluster:
+422
+420
+424
+Cluster is formed between Documents:
+Cluster Number:10
+405
+403
+Document added to previous cluster:5
+Documents in cluster:
+430
+428
+397
+Document added to previous cluster:2
+Documents in cluster:
+417
+415
+420
+Document added to previous cluster:3
+Documents in cluster:
+422
+420
+424
+415
+Document added to previous cluster:1
+Documents in cluster:
+404
+402
+400
+Cluster is formed between Documents:
+Cluster Number:11
+410
+408
+Document added to previous cluster:7
+Documents in cluster:
+423
+421
+419
+Cluster is formed between Documents:
+Cluster Number:12
+416
+414
+Cluster is formed between Documents:
+Cluster Number:13
+80
+64
+Cluster is formed between Documents:
+Cluster Number:14
+431
+429
+Cluster is formed between Documents:
+Cluster Number:15
+399
+398
+Document added to previous cluster:4
+Documents in cluster:
+409
+406
+411
+Document added to previous cluster:8
+Documents in cluster:
+413
+411
+406
+Cluster is formed between Documents:
+Cluster Number:16
+179
+148
+Document added to previous cluster:7
+Documents in cluster:
+423
+421
+419
+414
+Document added to previous cluster:12
+Documents in cluster:
+416
+414
+419
+Document added to previous cluster:10
+Documents in cluster:
+405
+403
+401
+Document added to previous cluster:7
+Documents in cluster:
+423
+421
+419
+414
+412
+Document added to previous cluster:12
+Documents in cluster:
+416
+414
+419
+412
+Document added to previous cluster:14
+Documents in cluster:
+431
+429
+398
+Document added to previous cluster:15
+Documents in cluster:
+399
+398
+429
+Document added to previous cluster:7
+Documents in cluster:
+423
+421
+419
+414
+412
+408
+Document added to previous cluster:11
+Documents in cluster:
+410
+408
+412
+Document added to previous cluster:12
+Documents in cluster:
+416
+414
+419
+412
+408
+Document added to previous cluster:13
+Documents in cluster:
+80
+64
+72
+Document added to previous cluster:1
+Documents in cluster:
+404
+402
+400
+397
+Document added to previous cluster:5
+Documents in cluster:
+430
+428
+397
+400
+Document added to previous cluster:10
+Documents in cluster:
+405
+403
+401
+398
+Document added to previous cluster:14
+Documents in cluster:
+431
+429
+398
+401
+Document added to previous cluster:15
+Documents in cluster:
+399
+398
+429
+401
+Document added to previous cluster:2
+Documents in cluster:
+417
+415
+420
+406
+Document added to previous cluster:3
+Documents in cluster:
+422
+420
+424
+415
+406
+Document added to previous cluster:4
+Documents in cluster:
+409
+406
+411
+415
+Document added to previous cluster:8
+Documents in cluster:
+413
+411
+406
+415
+Cluster is formed between Documents:
+Cluster Number:17
+380
+391
+Document added to previous cluster:7
+Documents in cluster:
+423
+421
+419
+414
+412
+408
+398
+Document added to previous cluster:10
+Documents in cluster:
+405
+403
+401
+398
+408
+Document added to previous cluster:11
+Documents in cluster:
+410
+408
+412
+398
+Document added to previous cluster:12
+Documents in cluster:
+416
+414
+419
+412
+408
+398
+Document added to previous cluster:14
+Documents in cluster:
+431
+429
+398
+401
+408
+Document added to previous cluster:15
+Documents in cluster:
+399
+398
+429
+401
+408
+Cluster is formed between Documents:
+Cluster Number:18
+92
+19
+Cluster is formed between Documents:
+Cluster Number:19
+497
+491
+Document added to previous cluster:1
+Documents in cluster:
+404
+402
+400
+397
+406
+Document added to previous cluster:2
+Documents in cluster:
+417
+415
+420
+406
+397
+Document added to previous cluster:3
+Documents in cluster:
+422
+420
+424
+415
+406
+397
+Document added to previous cluster:4
+Documents in cluster:
+409
+406
+411
+415
+397
+Document added to previous cluster:5
+Documents in cluster:
+430
+428
+397
+400
+406
+Document added to previous cluster:8
+Documents in cluster:
+413
+411
+406
+415
+397
+Cluster is formed between Documents:
+Cluster Number:20
+316
+320
+Cluster is formed between Documents:
+Cluster Number:21
+142
+124
+Cluster is formed between Documents:
+Cluster Number:22
+319
+321
+Cluster is formed between Documents:
+Cluster Number:23
+202
+172
+Document added to previous cluster:21
+Documents in cluster:
+142
+124
+137
+Cluster is formed between Documents:
+Cluster Number:24
+147
+110
+Cluster is formed between Documents:
+Cluster Number:25
+317
+318
+Cluster is formed between Documents:
+Cluster Number:26
+255
+249
+Cluster is formed between Documents:
+Cluster Number:27
+314
+310
+Cluster is formed between Documents:
+Cluster Number:28
+285
+281
+Cluster is formed between Documents:
+Cluster Number:29
+245
+242
+Cluster is formed between Documents:
+Cluster Number:30
+268
+257
+Cluster is formed between Documents:
+Cluster Number:31
+283
+280
+Document added to previous cluster:23
+Documents in cluster:
+202
+172
+182
+Cluster is formed between Documents:
+Cluster Number:32
+286
+278
+Cluster is formed between Documents:
+Cluster Number:33
+334
+237
+Cluster is formed between Documents:
+Cluster Number:34
+272
+270
+Cluster is formed between Documents:
+Cluster Number:35
+213
+68
+Cluster is formed between Documents:
+Cluster Number:36
+238
+236
+Document added to previous cluster:26
+Documents in cluster:
+255
+249
+253
+Cluster is formed between Documents:
+Cluster Number:37
+327
+325
+Cluster is formed between Documents:
+Cluster Number:38
+379
+378
+Document added to previous cluster:23
+Documents in cluster:
+202
+172
+182
+192
+Cluster is formed between Documents:
+Cluster Number:39
+312
+290
+Document added to previous cluster:20
+Documents in cluster:
+316
+320
+315
+Cluster is formed between Documents:
+Cluster Number:40
+303
+307
+Cluster is formed between Documents:
+Cluster Number:41
+11
+224
+Cluster is formed between Documents:
+Cluster Number:42
+313
+311
+Document added to previous cluster:26
+Documents in cluster:
+255
+249
+253
+251
+Document added to previous cluster:35
+Documents in cluster:
+213
+68
+2
+Document added to previous cluster:29
+Documents in cluster:
+245
+242
+239
+Document added to previous cluster:26
+Documents in cluster:
+255
+249
+253
+251
+248
+Document added to previous cluster:20
+Documents in cluster:
+316
+320
+315
+321
+Document added to previous cluster:22
+Documents in cluster:
+319
+321
+315
+Document added to previous cluster:33
+Documents in cluster:
+334
+237
+236
+Document added to previous cluster:36
+Documents in cluster:
+238
+236
+237
+Document added to previous cluster:17
+Documents in cluster:
+380
+391
+396
+Document added to previous cluster:30
+Documents in cluster:
+268
+257
+246
+Cluster is formed between Documents:
+Cluster Number:43
+451
+449
+Cluster is formed between Documents:
+Cluster Number:44
+233
+332
+Document added to previous cluster:42
+Documents in cluster:
+313
+311
+292
+Cluster is formed between Documents:
+Cluster Number:45
+256
+254
+Document added to previous cluster:29
+Documents in cluster:
+245
+242
+239
+241
+Cluster is formed between Documents:
+Cluster Number:46
+333
+235
+Cluster is formed between Documents:
+Cluster Number:47
+463
+462
+Document added to previous cluster:30
+Documents in cluster:
+268
+257
+246
+279
+Document added to previous cluster:35
+Documents in cluster:
+213
+68
+2
+60
+Cluster is formed between Documents:
+Cluster Number:48
+271
+265
+Cluster is formed between Documents:
+Cluster Number:49
+258
+250
+Cluster is formed between Documents:
+Cluster Number:50
+461
+460
+Cluster is formed between Documents:
+Cluster Number:51
+274
+261
+Document added to previous cluster:29
+Documents in cluster:
+245
+242
+239
+241
+243
+Cluster is formed between Documents:
+Cluster Number:52
+288
+291
+Document added to previous cluster:37
+Documents in cluster:
+327
+325
+324
+Cluster is formed between Documents:
+Cluster Number:53
+306
+302
+Cluster is formed between Documents:
+Cluster Number:54
+304
+264
+Cluster is formed between Documents:
+Cluster Number:55
+309
+298
+Cluster is formed between Documents:
+Cluster Number:56
+456
+455
+Cluster is formed between Documents:
+Cluster Number:57
+434
+433
+Document added to previous cluster:37
+Documents in cluster:
+327
+325
+324
+322
+Cluster is formed between Documents:
+Cluster Number:58
+295
+293
+Document added to previous cluster:42
+Documents in cluster:
+313
+311
+292
+264
+Document added to previous cluster:54
+Documents in cluster:
+304
+264
+292
+Cluster is formed between Documents:
+Cluster Number:59
+296
+252
+Document added to previous cluster:44
+Documents in cluster:
+233
+332
+330
+Document added to previous cluster:46
+Documents in cluster:
+333
+235
+232
+Cluster is formed between Documents:
+Cluster Number:60
+267
+260
+Document added to previous cluster:6
+Documents in cluster:
+426
+407
+418
+Document added to previous cluster:9
+Documents in cluster:
+425
+418
+407
+Cluster is formed between Documents:
+Cluster Number:61
+269
+266
+Document added to previous cluster:42
+Documents in cluster:
+313
+311
+292
+264
+323
+Document added to previous cluster:54
+Documents in cluster:
+304
+264
+292
+323
+Document added to previous cluster:53
+Documents in cluster:
+306
+302
+308
+Document added to previous cluster:28
+Documents in cluster:
+285
+281
+278
+Document added to previous cluster:32
+Documents in cluster:
+286
+278
+281
+Cluster is formed between Documents:
+Cluster Number:62
+465
+464
+Document added to previous cluster:29
+Documents in cluster:
+245
+242
+239
+241
+243
+240
+Document added to previous cluster:45
+Documents in cluster:
+256
+254
+252
+Document added to previous cluster:59
+Documents in cluster:
+296
+252
+254
+Cluster is formed between Documents:
+Cluster Number:63
+70
+62
+Document added to previous cluster:39
+Documents in cluster:
+312
+290
+247
+Cluster is formed between Documents:
+Cluster Number:64
+441
+438
+Document added to previous cluster:55
+Documents in cluster:
+309
+298
+300
+Document added to previous cluster:31
+Documents in cluster:
+283
+280
+275
+Document added to previous cluster:48
+Documents in cluster:
+271
+265
+273
+Document added to previous cluster:34
+Documents in cluster:
+272
+270
+262
+Document added to previous cluster:26
+Documents in cluster:
+255
+249
+253
+251
+248
+250
+Document added to previous cluster:49
+Documents in cluster:
+258
+250
+248
+Cluster is formed between Documents:
+Cluster Number:65
+197
+66
+Clustering Over

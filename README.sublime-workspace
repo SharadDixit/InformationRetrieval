@@ -1,0 +1,199 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"chan",
+				"channel2"
+			],
+			[
+				"cha",
+				"channel1"
+			],
+			[
+				"file",
+				"file_input"
+			],
+			[
+				"p",
+				"Println"
+			],
+			[
+				"i",
+				"ioutil"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sharad/IdeaProjects/Assignment4_IR/src/Trial1.java",
+		"/Users/sharad/IdeaProjects/AOS_check/AOS_1.go",
+		"/Users/sharad/Downloads/Projects-project1-master/PROJ1/main.go",
+		"/Users/sharad/Downloads/chord-protocol-with-go/chord-hash.go",
+		"/Users/sharad/Downloads/chord-protocol-with-go/helpers.go",
+		"/Users/sharad/Downloads/chord-protocol-with-go/nodes.go",
+		"/Users/sharad/Downloads/chord-protocol-with-go/coordinator.go",
+		"/Users/sharad/Downloads/chord-protocol-with-go/messages.go",
+		"/Users/sharad/Downloads/chord-protocol-with-go/main.go",
+		"/Users/sharad/Downloads/AOS_DEPLOY/Projects/PROJ1/main.go",
+		"/Users/sharad/IdeaProjects/Project2_IR/src/Assignment2.java",
+		"/Users/sharad/Documents/Assignment3_NS/Kerberos/kerberos_graph.xhtml",
+		"/Users/sharad/Documents/Assignment3_NS/Kerberos.scm",
+		"/Users/sharad/IdeaProjects/Assignment1_IR/src/Success1.java",
+		"/Users/sharad/Documents/go/src/hello/insert.txt"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
